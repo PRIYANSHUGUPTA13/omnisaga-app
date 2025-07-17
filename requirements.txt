@@ -1,0 +1,11 @@
+streamlit
+openai
+requests
+wikipedia
+speechrecognition
+pyttsx3
+mysql-connector-python
+os
+dotenv
+serpapi
+tempfile
